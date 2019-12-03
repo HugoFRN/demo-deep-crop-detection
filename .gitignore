@@ -1,0 +1,7 @@
+*.shp
+*.shx
+*.qpj
+*.qix
+*.prj
+*.dbf
+__pycache__/*
